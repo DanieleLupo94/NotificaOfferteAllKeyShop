@@ -3,7 +3,6 @@ import json
 import requests as req
 import re
 import sys
-import time
 import signal
 import time
 import bot
